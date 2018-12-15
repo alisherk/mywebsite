@@ -4,8 +4,10 @@ import About from './components/About';
 import Navbar from './components/Navbar';
 import Contact from './components/Contact';
 import Website from './components/Website';
+import WebApp from './components/WebApp';
 import { BrowserRouter, Switch } from 'react-router-dom';
 import Route from 'react-router-dom/Route';
+
 
 class App extends Component {
   render() {
@@ -17,7 +19,9 @@ class App extends Component {
             <Route exact path='/' component={Home} />
             <Route path='/about' component={About}/>
             <Route path='/websites' component={Website} />
+            <Route path='/webapps' component={WebApp} />
             <Route path='/contact' component={Contact} /> 
+
           </Switch>
         </div>
       </BrowserRouter>

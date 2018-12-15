@@ -6,10 +6,14 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+p {
+  margin-top: 1rem;
+}
 
-h1 { 
+h2 { 
   margin: 15px; 
   text-align: center;
+  color: #eee;
 }
 .nav-item button {
   background: inherit;
@@ -29,17 +33,17 @@ h1 {
 } 
 
 
-.home-div h1{
+.home-div h2{
   color: white; 
   text-align: center;
   margin-top: 0; 
 }
 
-address {
+section {
   font-family: Arial, Helvetica, sans-serif; 
 }
 
-h2 {
+h3 {
   margin-top: 2rem;
 }
 
@@ -47,26 +51,36 @@ h2 {
   background-image: url('https://source.unsplash.com/wfh8dDlNFOk/1920x1080'); 
   background-repeat: no-repeat;
   padding: 10%;
-
 }
-.web-div h1{
-   color: white; 
-   text-align: center;
-   margin-top: 0; 
+
+.web-div h2{
+  color: white; 
+  text-align: center;
+  margin-top: 0; 
+}
+
+.app-div{
+  background-image: url('https://source.unsplash.com/RCAhiGJsUUE/1920x1080'); 
+  background-repeat: no-repeat;
+  padding: 10%;
+}
+
+.app-div h2{
+  color: white; 
+  text-align: center;
+  margin-top: 0; 
 }
 
 .about img{
-  width: 70%; 
+  width: 75%; 
   height: 30%;
-  margin-top: 2rem;
-  margin-left: 5rem;
-  align-content: center;
+  margin: 20px 40px;
 }
 
 .about p {
-  text-align: left;
-  margin-right: 2rem;
+  margin-right: 20px;
   font-family: Arial, Helvetica, sans-serif; 
+  float: left;
 }
 
 .container input, textarea {
@@ -80,7 +94,7 @@ h2 {
 }
 
 .carousel img {
-  max-height: 25rem;
+  max-height: 20rem;
   margin: 0 auto;
 }
 

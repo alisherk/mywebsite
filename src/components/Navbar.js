@@ -26,10 +26,11 @@ const Navbar = () => {
                     <li className='nav-item dropdown'>
                         <button className='nav-link dropdown-toggle' id='navbarDropdownMenuLink' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
                             Services
-                     </button>
+                        </button>
 
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <Link to='/websites' className='dropdown-item'> Websites </Link>
+                            <Link to='/webapps' className='dropdown-item'> Web Apps </Link>
                         </div>
                     </li>
                     <li className='nav-item'>
