@@ -14,9 +14,9 @@ const Website = () => {
     <section> 
       We design, code and deliver websites to put your business on the global map of the 
       World Wide Web. We use modern tools and scalable technology to bring sharp and crisp 
-      website solution. If you already know how your website should look like or if you don't know 
-      we will be happy to help. If we will be happy just to have a conversation with you over a cup 
-      of coffee. 
+      websites. If you already know how your website should look like or if you don't know 
+      we will be happy to help. Please contact us today as we will be happy just to have a conversation with you 
+      to discuss your needs. 
     </section>
     </div>
 

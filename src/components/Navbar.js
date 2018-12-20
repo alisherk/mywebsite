@@ -29,7 +29,7 @@ const Navbar = () => {
                             <li className='nav-item dropdown'>
                                 <button className='nav-link dropdown-toggle' id='navbarDropdownMenuLink' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
                                     Services
-                        </button>
+                                </button>
 
                                 <div className='dropdown-menu' aria-labelledby='navbarDropdownMenuLink'>
                                     <Link to='/websites' className='dropdown-item'> Websites </Link>

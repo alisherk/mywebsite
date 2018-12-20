@@ -45,12 +45,12 @@ const Home = () => {
       <div className='container'>
         <h3>What we do</h3>
         <section>
-          We provide web solutions to individuals and small business in need of reliable web options. We use modern technology and tools that are scalable and on demand to meet your needs. Please contact us today for a simple conversation 
+          We provide web solutions to individuals and small businesses in need of reliable solutions. We use modern technology and tools that are scalable and on demand to meet your needs. Please contact us today for a simple conversation 
           over coffee. We will be glad to help you out. 
            
           <p> We consult on hosting options for your website, apps and databases. 
-             We will also help maintain your web apps for personal or business use. If you are someone who does not 
-            want to deal with technical details of maintaning websites or apps, we can help. </p>
+             We also help maintain your web apps for personal or business use. If you are someone who does not 
+            want to deal with technical details of maintaning websites or apps, let us help you. </p>
        </section>
       </div>
 
