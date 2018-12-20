@@ -13,11 +13,10 @@ const About = () => {
                 <div className='col-md-8 col-sm-8'>
                     <h2>About Me</h2>
                     <p>
-                        My name is Alisher. I am a developer specializing in web apps.
-                        I have experience working with JavaScript, .Net and Java building web applications and software for solving 
-                        business problems. I have been working in graphic and web design developing websites and blogs adding a personal 
-                        artistic touch. I have also great project management skills. Whether you are building a personal web blog or fully-fledged web application, I would like to help
-                        meet your business goals. Please contact me today for no commitmment conversation. At the very least, 
+                        My name is Alisher. I am a developer specializing in web application and web design.
+                        I have experience working with JavaScript, .Net and Java building web applications and software to solve real business problems. I have been working in graphic and web design with websites and blogs adding a personal 
+                        artistic touch. Whether need a website for your personal needs  or full web application to solve a business problem, I would like to help
+                        meet your personal and business goals. Please contact me today and let's chat about your needs. At the very least, 
                         we will have a great conversation over a cup of coffee. 
 
                     </p>

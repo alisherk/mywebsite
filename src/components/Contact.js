@@ -4,7 +4,6 @@ import React from 'react';
 const Contact = () => {
 
     return (
-
       <div className='container'>
         <h2>Contact Me</h2>
         <p>Feel free to contact me any time. I will offer you a good deal</p>

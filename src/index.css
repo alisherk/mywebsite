@@ -15,6 +15,18 @@ h2 {
   text-align: center;
   color: #eee;
 }
+
+#toggler img {
+  width: 70px; 
+  height: 70px;
+ 
+}
+
+ button:focus, button:hover{
+    border:none !important;
+    outline:none !important;
+}
+
 .nav-item button {
   background: inherit;
   color: white;
@@ -98,7 +110,34 @@ h3 {
   margin: 0 auto;
 }
 
+/*Media Queries  */
+@media screen and (max-width: 480px) {
 
+  .nav-item{
+    width:100%;
+    text-align:left;
+    border-bottom: grey solid;
+    border-width: thin; 
+  }
+
+  .carousel img {
+    height: 18rem;
+    margin: 0 auto;
+  }
+
+ .web-div{
+  background-image: url('https://source.unsplash.com/wfh8dDlNFOk/1920x1080'); 
+  background-repeat: no-repeat;
+  padding: 25%;
+}
+
+.app-div{
+  background-image: url('https://source.unsplash.com/RCAhiGJsUUE/1920x1080'); 
+  background-repeat: no-repeat;
+  padding: 25%;
+}
+
+}
 
 
 
