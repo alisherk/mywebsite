@@ -12,7 +12,7 @@ const About = () => {
                 </div>
                 <div className='col-md-9 col-sm-9'>
                     <h2>About Me</h2>
-                    <p>
+                    <p id='about-paragraph'>
                         My name is Alisher. I am a developer specializing in web apps and web development.
                         I have experience working with JavaScript, .Net and Java building web applications and software to solve real business problems. I have been working in graphic and web design with websites and blogs adding a personal
                         artistic touch. Whether you need a website for your personal needs  or a web application to solve a business problem, I would like to help
